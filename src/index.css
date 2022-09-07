@@ -23,6 +23,9 @@ select {
   font: inherit;
   margin-bottom: 1em;
 }
+button:hover {
+  cursor: pointer;
+}
 
 main {
   max-width: 500px;
